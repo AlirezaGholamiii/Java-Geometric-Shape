@@ -1,0 +1,275 @@
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 1
+Enter your desired Serial Number: SQUARE123
+color ? : 
+ 	 1- Dark color
+ 	 2- Blue color
+ 	 3- Red color
+  		 Choose your color [1-Dark, 2-Blue, 3-Red]
+1
+Enter your desired square side (e.g. 12.15): 123
+
+
+
+
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 1
+Enter your desired Serial Number: SQUARE456
+color ? : 
+ 	 1- Dark color
+ 	 2- Blue color
+ 	 3- Red color
+  		 Choose your color [1-Dark, 2-Blue, 3-Red]
+2
+Enter your desired square side (e.g. 12.15): 456
+
+
+
+
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 2
+Enter your desired Serial Number: CIRCLE123
+color ? : 
+ 	 1- Dark color
+ 	 2- Blue color
+ 	 3- Red color
+  		 Choose your color [1-Dark, 2-Blue, 3-Red]
+1
+Enter your desired circle radius (e.g. 12.15): 123
+
+
+
+
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 2
+Enter your desired Serial Number: CIRCLE456
+color ? : 
+ 	 1- Dark color
+ 	 2- Blue color
+ 	 3- Red color
+  		 Choose your color [1-Dark, 2-Blue, 3-Red]
+3
+Enter your desired circle radius (e.g. 12.15): 456.5
+
+
+
+
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 3
+
+
+[Square [Serial Number=SQUARE123, Side=123.0, EnumColor= Dark, EnumName= Square, Perimeter= 492.0, Surface= 15129.0], Square [Serial Number=SQUARE456, Side=456.0, EnumColor= Blue, EnumName= Square, Perimeter= 1824.0, Surface= 207936.0]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 6
+
+
+[Circle [Serial Number=CIRCLE123, Radius=123.0, EnumColor= Dark, EnumName= Circle, Perimeter= 772.83114, Surface= 47529.11511], Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 4
+Enter the Square Serial Number you want to search: SQUARE123
+Square [Serial Number=SQUARE123, Side=123.0, EnumColor= Dark, EnumName= Square, Perimeter= 492.0, Surface= 15129.0]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 6
+
+
+[Circle [Serial Number=CIRCLE123, Radius=123.0, EnumColor= Dark, EnumName= Circle, Perimeter= 772.83114, Surface= 47529.11511], Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: CIRCLE456
+No Valid Input Entered!!
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 6
+
+
+[Circle [Serial Number=CIRCLE123, Radius=123.0, EnumColor= Dark, EnumName= Circle, Perimeter= 772.83114, Surface= 47529.11511], Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: CIRCLE456
+No Valid Input Entered!!
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 6
+
+
+[Circle [Serial Number=CIRCLE123, Radius=123.0, EnumColor= Dark, EnumName= Circle, Perimeter= 772.83114, Surface= 47529.11511], Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 7
+Enter the Circle Serial Number you want to search: CIRCLE456
+Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 8
+Enter the Square Serial Number you want to delete: CIRCLE123
+Object with the Serial Number of CIRCLE123 removed!
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 6
+
+[Circle [Serial Number=CIRCLE456, Radius=456.5, EnumColor= Red, EnumName= Circle, Perimeter= 2868.27167, Surface= 654683.0086775001]]
+
+
+
+1 - Create and add a square into the data collection of IShape2D
+2 - Create and add a circle into the data collection of IShape2D
+3 - Display all the squares from the data collection of IShape2D
+4 - Search for a square by serial number
+5 - Remove a square from the data collection of IShape2D
+6 - Display all the circles from the data collection of IShape2D
+7 - Search for a circle by serial number
+8 - Remove a circle from the data collection of IShape2D
+9 - Exit
+	 Enter your option: 9
+Option 9 is entered...
+Application is closed successfuly!

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"bus","l":"Circle"},{"p":"bus","l":"DataCollection"},{"p":"bus","l":"EnumColor"},{"p":"bus","l":"EnumName"},{"p":"bus","l":"IShape2D"},{"p":"client","l":"main"},{"p":"bus","l":"Shape"},{"p":"bus","l":"Square"}];updateSearchResults();
